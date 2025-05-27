@@ -3,8 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class ChatGptService {
-  final String _apiKey =
-      "";
+  final String _apiKey = "";
 
   Future<String> getChatGptResponse(
     String prompt, {
