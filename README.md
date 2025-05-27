@@ -1,4 +1,4 @@
-# AI Task & Notes Manager – Flutter Project
+# AI-Powered Smart Notes App using Flutter
 
 This is a smart task and notes management mobile application developed.
 
