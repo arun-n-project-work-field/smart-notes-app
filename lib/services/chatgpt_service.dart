@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class ChatGptService {
   final String _apiKey =
-      "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";
+      "";
 
   Future<String> getChatGptResponse(
     String prompt, {
