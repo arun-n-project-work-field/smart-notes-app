@@ -1,7 +1,5 @@
 # AI Task & Notes Manager – Flutter Project
 
-## Developed by Yiğit Gürsoy
-
 This is a smart task and notes management mobile application developed.
 
 It includes advanced features like **AI-powered priority suggestions**, **grammar correction**, **date-range task support**, **undo logic**, and full **light/dark theme support**.  
